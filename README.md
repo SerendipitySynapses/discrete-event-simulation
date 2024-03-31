@@ -1,4 +1,4 @@
-# discrete_event_simulation-
+# Discrete Event Simulation
 This Python script simulates the operations of a healthcare system using discrete event simulation techniques.
 
 ## Overview
